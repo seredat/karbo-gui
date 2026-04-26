@@ -1,6 +1,11 @@
 # Karbo-GUI
 Alt. wallet for Karbo
 
+⚠️ PROJECT MOVED: This repository is no longer maintained here. Please find the latest version and report issues at: https://github.com/Karbovanets/Karbo-GUI
+
+
+
+
 **1. Clone wallet sources**
 
 ```
